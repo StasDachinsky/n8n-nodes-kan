@@ -1,7 +1,7 @@
 {
   "name": "n8n-nodes-kan",
   "version": "1.0.0",
-  "description": "Custom node for Kanboard integration inside n8n workflows",
+  "description": "Custom node for KAN integration inside n8n workflows",
   "files": [
     "dist"
   ],
